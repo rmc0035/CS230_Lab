@@ -47,7 +47,7 @@ require 'includes/header.php';
                         required>
 
                     <button class="w-100 btn btn-lg btn-outline-primary" name="login-submit" type="submit">Sign
-                        Up</button>
+                        In</button>
                     <p class="mt-5 mb-3 text-muted">&copy; 2021–1999</p>
                 </form>
             </div>

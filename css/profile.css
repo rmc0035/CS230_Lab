@@ -1,0 +1,28 @@
+.bg-cover {
+    background-image: url("../images/main-bg-2.jpg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat; 
+}
+.center-me{
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    text-align: center;
+
+}
+#prof-display{
+    display: block;
+
+    width: 250px;
+    margin: 10px auto;
+    border-radius: 50%;
+
+}
+#uname-style{
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(109, 4, 4);
+}
